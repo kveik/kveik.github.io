@@ -3128,7 +3128,7 @@
 			}
 
 		#header .logo {
-			font-family: 'Pacifico', cursive;
+			font-family: 'Special Elite', cursive;
 			display: inline-block;
 			height: inherit;
 			left: 0;
@@ -3743,10 +3743,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
+		background-color: #000000;
 		color: #f2a3a5;
 		padding: 4em 0 2em 0;
-		background: #e5474b;
+		background: #000000;
 	}
 
 		#footer input, #footer select, #footer textarea {
